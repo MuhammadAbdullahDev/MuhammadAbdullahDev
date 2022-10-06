@@ -47,9 +47,9 @@
 [<img align="left" alt=" | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
 
 
-[twitter]:   https://twitter.com/MianUsamaSadiq
-[youtube]:   https://www.youtube.com/channel/UCQTcyzcyVgruoTWul6QEUyA
-[instagram]: https://www.instagram.com/ch.usamasadiq/
-[linkedin]:  https://www.linkedin.com/in/chusamasadiq/
-[facebook]:  https://www.facebook.com/mianusamasadiq
+[twitter]:   https://twitter.com/
+[youtube]:   https://www.youtube.com/
+[instagram]: https://www.instagram.com/
+[linkedin]:  https://www.linkedin.com/in/
+[facebook]:  https://www.facebook.com/
 
